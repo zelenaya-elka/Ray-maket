@@ -1,0 +1,38 @@
+.content__super-remote_background-settings{
+	background-color: #ececec;
+	text-align: center;
+	padding-top: 5px;
+}
+
+.super-remote__item_settings{
+    display: inline-block;
+    background-color: #fff;
+    width: 340px;
+    height: 255px;
+	margin-bottom: 5px;
+    margin-right: 3px;	
+}
+
+.super-remote__item_settings:nth-child(7){
+	background-color: #dedede;
+}
+
+.super-remote__caption_font-settings{
+	font-size: 1.3em;
+	color: #909090;
+	margin-left: 75px;
+}
+
+	.item__caption_font-settings{
+		margin-top: 30px;
+		display: block;
+	}
+
+	.item__photo_position{
+		  display: block;
+		max-width: 267px;
+		max-height: 193px;
+		margin-top: 13px;
+		margin-left: 80px;
+	}
+	

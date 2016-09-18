@@ -1,8 +1,8 @@
-.content-products-for_mobile{
+.content__products-for-mobile{
 	display: none;
 }
 
-.content-products-position{
+.content__products_position{
     width: 700px;
     height: 410px;
     margin-left: 7.5%;
@@ -10,58 +10,58 @@
     float: left;    
 }
 
-.content-products-item-position{
-    display: inline-block;
-    width: 21%;
-    height: 200px;
-    position: relative;
-    margin-right: 2.8%;
-    margin-bottom: 4.2%;
-}
+	.products__item_position{
+		display: inline-block;
+		width: 21%;
+		height: 200px;
+		position: relative;
+		margin-right: 2.8%;
+		margin-bottom: 4.2%;
+	}
 
-	.item-checked-background_settings{
-		display: block;
-		position: absolute;
-		width: 45px;
-		height: 45px;
-		background-image: url('images/content/content_block1/ok.png');
-	}
+		.item__checked_background-settings{
+			display: block;
+			position: absolute;
+			width: 45px;
+			height: 45px;
+			background-image: url('../../images/content/content_block1/ok.png');
+		}
 	
-	.item-back-settings{
-	    width: 147px;
-		height: 147px;
-		display: table-cell;
-		vertical-align: middle;
-		text-align: center;
-		background-color: #f6f6f6;
-		border-radius: 50%;
-	}
-		
-	.item-description-font_position{
-	    margin-top: 15px;
-		display: block;
-		font-size: 0.8em;
-		text-align: center;			
-	}
+		.item__back_settings{
+			width: 147px;
+			height: 147px;
+			display: table-cell;
+			vertical-align: middle;
+			text-align: center;
+			background-color: #f6f6f6;
+			border-radius: 50%;
+		}
+			
+		.item__description_font-position{
+			margin-top: 15px;
+			display: block;
+			font-size: 0.8em;
+			text-align: center;			
+		}
 
 	
 @media screen and (max-width: 480px) {
-.content-products-position{
+.content__products_position{
     display: none;    
 }
 
-.content-products-for_mobile{
+.content__products-for-mobile{
 	display: block;
 	margin-left: 75px;
 }
 
-.content-products-for_mobile li{
+.content__products-for-mobile li{
 	list-style: none;
 	font-size: 1.3em;
 	color: #000;
 }
 
-.content-products-for_mobile li::before{
+.content__products-for-mobile li::before{
 	content: "✔";
 	color: #6be69c;
 	padding-right: 7px;

@@ -1,0 +1,58 @@
+.content__compatible-devices_background-settings{
+	width: 1263px;
+	margin: 0 auto;
+	background-color: #1e2c37;	
+	margin-top: 118px;
+	color: #fff;
+}
+
+.compatible-devices__header_font-settings{
+	font-size: 2.3em;
+    font-weight: normal;
+    padding-top: 50px;
+    width: 1150px;
+    text-align: center;
+    padding-left: 87px;
+}
+
+.compatible-devices__item_position{
+	white-space: pre;
+    float: left;
+    color: #a9a8a8;
+    line-height: 1.9em;
+    width: 200px;
+	margin-right: 80px;
+    margin-top: -5px;
+	margin-left: -38px;
+}
+
+	.item__caption_bold{
+		font-weight: bold;	
+	}
+
+	.item__more-link_color{
+		text-decoration: none;
+		color: #2ac4f3;
+		font-weight: bold;
+	}
+	
+	.item__more-link_color:hover{
+		border-bottom: 1px solid #2ac4f3;
+	}
+
+.compatible-devices__button_settings{
+	    border: 1px solid #fff;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    font-size: 1em;
+    color: #fff;
+    background-color: #1e2c37;
+    padding: 15px 17px;
+    margin-top: 20px;
+    margin-right: 160px;
+    margin-left: 560px;
+    width: 215px;
+    margin-bottom: 83px;
+	
+}
