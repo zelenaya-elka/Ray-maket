@@ -1,38 +1,80 @@
 .content__super-remote_background-settings{
 	background-color: #ececec;
 	text-align: center;
-	padding-top: 5px;
+	padding-top: 3px;
 }
 
 .super-remote__item_settings{
     display: inline-block;
     background-color: #fff;
-    width: 340px;
-    height: 255px;
-	margin-bottom: 5px;
-    margin-right: 3px;	
+    width: 377px;
+    height: 251px;
+    margin-bottom: 5px;	
+}
+.super-remote__item_settings:nth-child(3n+2){
+    margin-left: 77px;
 }
 
 .super-remote__item_settings:nth-child(7){
 	background-color: #dedede;
 }
 
+.super-remote__item_settings:nth-child(4) .item__photo_position{
+	margin-left: 65px;
+    margin-top: 17px;
+}
+
+.super-remote__item_settings:nth-child(5) .item__photo_position{
+    margin-left: 68px;
+    margin-top: 14px;
+}
+
+.super-remote__item_settings:nth-child(7) .item__photo_position{
+	margin-left: 95px;	
+}
+
+.super-remote__item_settings:nth-child(8) .item__caption_font-settings{
+	margin-top: 28px;
+}
+
+
+.super-remote__item_settings:nth-child(8) .item__photo_position{
+	margin-left: 33px;
+    margin-top: 16px;	
+}
+
+.super-remote__item_settings:nth-child(9) .item__caption_font-settings,
+.super-remote__item_settings:nth-child(10) .item__caption_font-settings{
+	margin-top: 28px;
+}
+
+.super-remote__item_settings:nth-child(9) .item__photo_position{
+    margin-top: 9px;	
+}
+
+.super-remote__item_settings:nth-child(10) .item__photo_position{
+    margin-top: 30px;
+	margin-left: -1px;
+}
+
 .super-remote__caption_font-settings{
-	font-size: 1.3em;
+	font-size: 1.4em;
 	color: #909090;
 	margin-left: 75px;
 }
 
 	.item__caption_font-settings{
-		margin-top: 30px;
+		margin-top: 22px;
 		display: block;
+		font-size: 1.1em;
+		margin-left: -2px;
 	}
 
 	.item__photo_position{
-		  display: block;
-		max-width: 267px;
-		max-height: 193px;
-		margin-top: 13px;
-		margin-left: 80px;
+		display: block;
+		max-width: 312px;
+		max-height: 192px;
+		margin-top: 15px;
+		margin-left: 95px;
 	}
 	
