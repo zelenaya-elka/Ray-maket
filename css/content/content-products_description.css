@@ -2,11 +2,11 @@
 	float: right;
     width: 357px;
     height: 410px;
-    margin-right: 3%;
+    margin-right: 2.8%;
 }
 
 .products-description__main_font-settings{
-    font-size: 2.4em;
+    font-size: 2.2em;
     margin-top: 0px;
 	font-weight: normal;
     line-height: 48px;
@@ -14,9 +14,9 @@
 }
 
 .products-description__rubric_font-settings{
-	margin-top: 28px;
+	margin-top: 26px;
 	font-size: 0.9em;
-    line-height: 29px;
+    line-height: 2.1em;
 	color: #666;
 }
 
