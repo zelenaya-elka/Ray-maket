@@ -6,11 +6,11 @@
 .content__caption_font-settings{
 	text-transform: uppercase;
     color: #2ac4f3;
-    font-size: 0.8em;
+    font-size: 0.9em;
     text-align: center;
     font-weight: bold;
-    margin-top: 3.1%;
-    padding-left: 5.3%; 
+    margin-top: 3.2%;
+    padding-left: 5.9%; 
 }
 
 
@@ -19,7 +19,7 @@
 	display: block;
 	width: 1023px;
 	height: 646px;
-    margin-left: 15.3%;
+    margin-left: 15.5%;
     margin-top: -1%;
 	margin-bottom: 8.3%;
 }
